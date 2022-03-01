@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seshuthota
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning GANs and Object Detection 
+- 👀 I’m interested in BlockChain
+- 🌱 I’m currently learning Solidity and JavaScript
 - 💞️ I’m looking to collaborate on Real world deep learing projects
 - 📫 How to reach me seshukumar151@gmail.com
 
