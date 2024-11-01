@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @seshuthota
-- 👀 I’m interested in Software Dvelopment, Web3,Blockchain.
--  I have 5 years experience in Java, Springboot, Python, ELK, RabbitMQ. 
-- 🌱 I’m currently learning Solidity and JavaScript
-- 💞️ I’m looking to collaborate on Real Blockchain/Web3 projects
+- 👀 I’m interested in Software Dvelopment, AI, ML
+-  I have 6+ years experience in Java, Springboot, Python, ELK, RabbitMQ. 
+- 🌱 I’m currently learning LLMs, GenAI
+- 💞️ I’m looking to collaborate on GenAI projects. 
 - 📫 How to reach me seshukumar151@gmail.com
 
 <!---
