@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seshuthota
 - 👀 I’m interested in Software Dvelopment, AI, ML
--  I have 6+ years experience in Java, Springboot, Python, ELK, RabbitMQ. 
+-  I have 7+ years experience in Java, Springboot, Python, ELK, RabbitMQ. 
 - 🌱 I’m currently learning LLMs, GenAI
 - 💞️ I’m looking to collaborate on GenAI projects. 
 - 📫 How to reach me seshukumar151@gmail.com
