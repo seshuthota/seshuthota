@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seshuthota
-- 👀 I’m interested in Software Dvelopment, AI, ML
+- 👀 I’m interested in Software Development, AI, ML, GenAI
 -  I have 7+ years experience in Java, Springboot, Python, ELK, RabbitMQ. 
 - 🌱 I’m currently learning LLMs, GenAI
 - 💞️ I’m looking to collaborate on GenAI projects. 
